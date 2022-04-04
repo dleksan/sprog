@@ -1,0 +1,6 @@
+﻿  Tetris.cpp
+C:\Users\leksan\source\repos\Tetris\Tetris\Tetris.cpp(73,22): warning C4477: 'wprintf' : format string '%ld' requires an argument of type 'long', but variadic argument 2 has type 'LONGLONG'
+C:\Users\leksan\source\repos\Tetris\Tetris\Tetris.cpp(73,22): message : consider using '%lld' in the format string
+C:\Users\leksan\source\repos\Tetris\Tetris\Tetris.cpp(73,22): message : consider using '%Id' in the format string
+C:\Users\leksan\source\repos\Tetris\Tetris\Tetris.cpp(73,22): message : consider using '%I64d' in the format string
+  Tetris.vcxproj -> C:\Users\leksan\source\repos\Tetris\x64\Debug\Tetris.exe
